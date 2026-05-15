@@ -66,7 +66,7 @@
 <div align="center">
 <img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
 
-<img src="https://streak-stats.demolab.com/?user=JAMAIKZN&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF%22%20alt=%22strea" alt="streak"/>
+<img src="https://pin.it/1CSzUHE9z/?user=JAMAIKZN&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF%22%20alt=%22strea" alt="streak"/>
 
 <br/>
 
