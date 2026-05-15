@@ -64,7 +64,6 @@
 
 ## Statistics
 <div align="center">
-<img width="451" height="200" alt="Image" src="" />
 
 <img src="https://streak-stats.demolab.com/?user=JAMAIKZN&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF%22%20alt=%22strea" alt="streak"/>
 
